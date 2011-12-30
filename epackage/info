@@ -1,0 +1,21 @@
+Package: smart-tab
+Section: extensions
+License: GPL-3+
+Depends: emacs (>= 22)
+Status: stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: John SJ Anderson <genehack@genehack.org>
+Upstream-Bugs:
+Vcs-Type: git
+Vcs-Url: git://github.com/genehack/smart-tab.git
+Vcs-Browser: https://github.com/genehack/smart-tab/
+Homepage: http://github.com/genehack/smart-tab/tree/master
+Wiki: http://www.emacswiki.org/emacs/TabCompletion
+Commentary: smart-tab.el
+X-Development:
+Description: intelligent tab completion and indentation
+ Define command M-x smart-tab to "do the smart thing" when TAB is pressed.
+ Attempt to expand the text before the point or indent the current line or
+ selection.

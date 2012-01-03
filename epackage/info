@@ -15,6 +15,7 @@ Homepage: http://github.com/genehack/smart-tab/tree/master
 Wiki: http://www.emacswiki.org/emacs/TabCompletion
 Commentary: smart-tab.el
 X-Development:
+ 2012-01-03 upstream address verified.
 Description: intelligent tab completion and indentation
  Define command M-x smart-tab to "do the smart thing" when TAB is pressed.
  Attempt to expand the text before the point or indent the current line or

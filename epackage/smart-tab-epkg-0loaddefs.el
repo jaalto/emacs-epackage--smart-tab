@@ -1,7 +1,7 @@
 
 ;;;### (autoloads (smart-tab-mode smart-tab-mode-on smart-tab) "smart-tab"
-;;;;;;  "../smart-tab.el" (20221 47115))
-;;; Generated autoloads from ../smart-tab.el
+;;;;;;  "../smart-tab.el" (20221 49679))
+;;; Generated autoloads from smart-tab.el
 
 (autoload 'smart-tab "smart-tab" "\
 Try to 'do the smart thing' when tab is pressed.
@@ -36,4 +36,3 @@ Null prefix argument turns off the mode.
 (autoload 'global-smart-tab-mode-enable-in-buffers "smart-tab")
 
 ;;;***
-(provide 'smart-tab-epkg-0loaddefs)

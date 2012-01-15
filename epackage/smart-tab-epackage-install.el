@@ -2,4 +2,4 @@
 (autoload 'smart-tab                            "smart-tab" "" t)
 (autoload 'smart-tab-mode                       "smart-tab" "" t)
 (autoload 'global-smart-tab-mode                "smart-tab" "" t)
-(provide 'smart-tab-epkg-install)
+(provide 'smart-tab-epackage-install)

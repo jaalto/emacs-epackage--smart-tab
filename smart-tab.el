@@ -65,7 +65,7 @@
   :group 'tools)
 
 (defvar smart-tab-debug nil
-  "Turn on for logging about which smart-tab function ends up being called.")
+  "Turn on for logging about which `smart-tab' function ends up being called.")
 
 (defcustom smart-tab-using-hippie-expand nil
   "Use `hippie-expand' to expand text.
